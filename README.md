@@ -1,2 +1,2 @@
-# Datasciencecoursera1802
-Datasciencecoursera1802
+# Datasciencecoursera
+Datasciencecoursera
